@@ -30,7 +30,7 @@ function sayHiToGrandma(string){
     return lowercase
   }
   else if(string ===iLoveYou){
-    return "I love you, too";
+    return "I love you, too.";
   }
   
 }
