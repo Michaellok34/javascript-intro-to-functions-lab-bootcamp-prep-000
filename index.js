@@ -25,3 +25,13 @@ function sayHiToGrandma(string){
   return string;
     
 }
+
+function sayHiToGrandma(string){
+  
+  var string = "yes indeed";
+  
+  string.toUpperCase()===string;
+  
+  return string;
+    
+}
