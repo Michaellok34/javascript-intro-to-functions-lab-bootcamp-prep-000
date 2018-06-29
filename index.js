@@ -18,20 +18,15 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   
-  var string = "I can't hear you!";
+  var  = "I can't hear you!";
   
   string.toLowerCase() === string;
+  
+  
+  if (string ===uppercase 
+  
   
   return string;
     
 }
 
-function sayHiToGrandma(string){
-  
-  var string = "yes indeed";
-  
-  string.toUpperCase()===string;
-  
-  return string;
-    
-}
