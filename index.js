@@ -29,7 +29,5 @@ function sayHiToGrandma(string){
     return lowercase
   }
   
-  
-  
 }
 
